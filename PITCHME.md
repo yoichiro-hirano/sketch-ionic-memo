@@ -4,7 +4,7 @@
 - Sketch |
 - Ionic |
 
----
++++
 
 ### Sketch
 ![Logo](sketch.png)
@@ -23,7 +23,7 @@ module.exports = {
 ```
 
 
----
++++
 
 
 ### 2枚目のスライド
