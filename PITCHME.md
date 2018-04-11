@@ -7,7 +7,7 @@
 ---
 
 ### Sketch
-![Logo](sketch-ionic-memo/スクリーンショット 2018-04-11 17.13.36.png)
+![Logo](sketch.png)
 
 ### インストール
 * 完全ビルドとruntime-only ビルド
