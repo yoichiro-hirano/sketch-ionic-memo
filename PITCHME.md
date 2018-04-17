@@ -4,7 +4,6 @@
 ---
 ## アプリ開発R&D
  #### ハイブリッドアプリを作りました。
-作ったアプリ
 <https://www.imjp.co.jp/dev/app/ionic/luncher/>
 <br>
 id: imj-dev
@@ -32,10 +31,10 @@ pw: creative
   - コンポーネント（シンボル）を組み合わせる
 ---
 ### 使ってみた感想
-- 効率的にマークアップできる(Sketch Measureプラグイン)
+- 効率的にマークアップできる<br>(Sketch Measureプラグイン)
 - 画像の書き出しが直感的
 
-→エンジニア的にはSketchの方が作業しやすいと感じました。 <br>(デザイナーはWEB制作にはメリット感じづらいらしい)
+→エンジニア的には<br>Sketchの方が作業しやすいと感じました。 <br>(デザイナーはWEB制作にはメリット感じづらいらしい)
 
 ---
 ## Ionic
@@ -43,18 +42,18 @@ pw: creative
 
 ---
 ### Ionicとは
-ハイブリッドモバイルアプリ制作のフレームワーク
-※ハイブリッドモバイルアプリ..
+ハイブリッドモバイルアプリ制作のフレームワーク<br>
+※ハイブリッドモバイルアプリ..<br>
 [ハイブリッドアプリとは? - Qiita](https://qiita.com/soarflat/items/cf5d343c75baadb461dc)
 
 ---
 ### 特徴
 * **Cordovaベース**
  - HTML5とJS(TS)でモバイルアプリが作れる
- ※Cordova...WebViewとネイティブ機能を利用するためのプラグインによってハイブリッドアプリを実現するフレームワーク
+ ※Cordova...WebViewとプラグインでハイブリッドアプリを実現するフレームワーク
  - メリット、デメリットもCordovaに依存
 * **ネイティブライクなUI部品が豊富**
-[Ionic Component Documentation](https://ionicframework.com/docs/components/#overview)
+<br>[Ionic Component Documentation](https://ionicframework.com/docs/components/#overview)
 * **Angular, TypeScript を使用**
 
 ---
