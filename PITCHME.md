@@ -1,10 +1,12 @@
-# Sketch & Ionic<br>（アプリ開発R&Dの所感）
+# Sketch & Ionic<br>
+### （アプリ開発R&Dの所感）
 
 ---
 ## アプリ開発R&D
  #### ハイブリッドアプリを作りました。
-作ったアプリ↓
+作ったアプリ
 <https://www.imjp.co.jp/dev/app/ionic/luncher/>
+<br>
 id: imj-dev
 pw: creative
 #### 新しいツール/フレームワークを使いました。
@@ -14,7 +16,7 @@ pw: creative
 
 ---
 ## Sketch
-![Logo](sketch_logo.png)
+![Logo](sketch_logo.jpg)
 
 ---
 ### Sketchとは
@@ -30,38 +32,37 @@ pw: creative
   - コンポーネント（シンボル）を組み合わせる
 ---
 ### 使ってみた感想
- - 効率的にマークアップできる(Sketch Measureプラグイン)
+- 効率的にマークアップできる(Sketch Measureプラグイン)
 - 画像の書き出しが直感的
 
-→エンジニア的にはSketchの方が作業しやすいと感じました。 (デザイナーはWEB制作にはメリット感じづらいらしい)
+→エンジニア的にはSketchの方が作業しやすいと感じました。 <br>(デザイナーはWEB制作にはメリット感じづらいらしい)
 
 ---
 ## Ionic
-![Logo](ionic_logo.png)
+![Logo](ionic_logo.svg)
 
 ---
 ### Ionicとは
 ハイブリッドモバイルアプリ制作のフレームワーク
 ※ハイブリッドモバイルアプリ..
 [ハイブリッドアプリとは? - Qiita](https://qiita.com/soarflat/items/cf5d343c75baadb461dc)
+
+---
 ### 特徴
 * **Cordovaベース**
-→HTML5とJS(TS)でモバイルアプリが作れる
-※Cordova...WebViewとネイティブ機能を利用するためのプラグインによってハイブリッドアプリを実現するフレームワーク
-→メリット、デメリットもCordovaに依存
+ - HTML5とJS(TS)でモバイルアプリが作れる
+ ※Cordova...WebViewとネイティブ機能を利用するためのプラグインによってハイブリッドアプリを実現するフレームワーク
+ - メリット、デメリットもCordovaに依存
 * **ネイティブライクなUI部品が豊富**
 [Ionic Component Documentation](https://ionicframework.com/docs/components/#overview)
-* **デザインテンプレートが利用可能**
 * **Angular, TypeScript を使用**
 
 ---
 ### 使ってみた感想
 - **WEBと同じ感覚で実装できる**
-  - アプリ特有の懸念はページ遷移のエフェクトを考慮するくらい
 - **Angular知らないと最初辛い**
   - TypeScript
   - モジュール構成やディレクティブはAngularと同じ
-(Angularの「ガチガチ感」を理解するには至らず)
 - **ドキュメントが少ない**
   - 日本語の解説は少ない＆古い
   - 公式ドキュメントも情報乏しい＆更新頻度が少ない
