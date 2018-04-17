@@ -52,8 +52,8 @@ pw: creative
 ---
 ### 特徴
 * **Cordovaベース**
- - HTML5とJS(TS)でモバイルアプリが作れる
- ※Cordova...WebViewとプラグインでハイブリッドアプリを実現するフレームワーク
+ - HTML5とJSでモバイルアプリが作れる
+ ※Cordova...WebView+プラグインで<br>ハイブリッドアプリを実現するフレームワーク
  - メリット、デメリットもCordovaに依存
 * **ネイティブライクなUI部品が豊富**
 <br>[Ionic Component Documentation](https://ionicframework.com/docs/components/#overview)
