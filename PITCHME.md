@@ -38,7 +38,7 @@ pw: creative
 
 ---
 ## Ionic
-![Logo](ionic_logo.svg)
+![Logo](ionic_logo.png)
 
 ---
 ### Ionicとは
