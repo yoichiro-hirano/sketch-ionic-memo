@@ -1,4 +1,4 @@
-# Sketch & Ionic（アプリ開発R&Dの所感）
+# Sketch & Ionic<br>（アプリ開発R&Dの所感）
 
 ---
 ## アプリ開発R&D
